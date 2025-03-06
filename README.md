@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects details are available at **https://maniyar-safwan.tiiny.site/**
 - 📫 Reach me out through **mdsafwanmaniyar@gmail.com**
 
-# 💼 Intern, Web Developer, and Data Analyst
+# 💼 Intern, Web Developer
 **Aleap We-Hub | June 2024 – Present**
 
 - Led initiatives for 2 startups, managing a team of 4; optimized queries, cutting processing time by 35%.
