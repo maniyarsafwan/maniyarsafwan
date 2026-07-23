@@ -1,21 +1,78 @@
-# Hi 👋, I'm Maniyar Safwan
-**An Innovative problem-solver with a passion for technology, leading teams and driving smart solutions in Python, Java, Web Development, AI-ML, and Cloud Computing.**
+<h1 align="center">Maniyar Safwan</h1>
+<h3 align="center">Data Engineer @ HCLTech | Snowflake · dbt · Oracle PL/SQL · IBM DataStage</h3>
 
-- 🧑‍🎓 Studing **Computer Science and Engineering** at **Vidya Jyothi Institute of Technology**
-- 🔭 I’m currently working on a Project named **AnomalyShield**
-- 👨‍💻 All of my projects details are available at 
-- 📫 Reach me out through **mdsafwanmaniyar@gmail.com**
+<p align="center">
+  <a href="https://linkedin.com/in/maniyar-safwan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mdsafwanmaniyar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-# 💼 Intern, Web Developer
-**Aleap We-Hub | June 2024 – Present**
+---
 
-- Led initiatives for 2 startups, managing a team of 4; optimized queries, cutting processing time by 35%.
-- Designed and deployed web solutions, boosting site performance by 50% and customer retention by 30%.
-- Analyzed 500,000+ records, driving a 15% reduction in operational costs.
-- Collaborated cross-functionally to integrate technologies.
+### About
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+Associate Data Engineer at HCLTech, working on the USAA client engagement. Focused on backend query logic, automated pipeline monitoring, and ETL development across Oracle PL/SQL, Snowflake, DBT, and IBM DataStage. SnowPro Core certified. Previously contributed to an ISRO-affiliated project enhancing lunar crater imagery using AI/ML methods.
 
+B.Tech in Computer Science, Vidya Jyothi Institute of Technology (CGPA: 8.52).
 
+---
 
+### Technical Skills
+
+**Data Engineering**
+![Oracle](https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![DataStage](https://img.shields.io/badge/IBM%20DataStage-052FAD?style=flat&logo=ibm&logoColor=white)
+![Control-M](https://img.shields.io/badge/Control--M-333333?style=flat)
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**Web & Backend**
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+### Featured Projects
+
+**[Lunar PSR Image Enhancement — ISRO / Chandrayaan-2](https://github.com/mdmaniyarsafwan)**
+Applied MRI-based physical models and U-Net architecture to enhance Permanently Shadowed Region imagery from Chandrayaan-2 OHRC data, achieving up to 70% improvement in image clarity and an 80% model success rate.
+
+**Snowflake CDR Analytics Platform**
+Built a 3-layer Medallion Architecture (Bronze/Silver/Gold) on Snowflake, ingesting 8 raw telecom sources via automated Pipes and Tasks. Delivered a Star Schema with 9 Gold-layer KPI views covering ARPU, Churn Rate, FCR, and Complaint Rate.
+
+**Hospital Management Database Design**
+Designed a normalized (1NF–BCNF) relational schema spanning 6 modules, 21 entities, and 8 actor roles, supporting 25+ CRUD-mapped agile user stories with dynamic Role-Based Access Control.
+
+**[Penetration Testing as a Service (PTaaS)](https://github.com/mdmaniyarsafwan)**
+Engineered a network attack simulator automating penetration testing workflows, with real-time vulnerability scanning and exploit alerting, improving testing efficiency by 80%.
+
+---
+
+### Certifications
+
+- SnowPro Core Certification — Snowflake
+- Generative AI — Percipio (HCLTech)
+- Python for Artificial Intelligence / Machine Learning — Udemy
+- SQL and Database Design with MySQL — Oracle
+- The Complete Python Pro Bootcamp — Udemy
+
+---
+
+<p align="center"><i>Open to conversations on data engineering, cloud platforms, and applied AI.</i></p>
