@@ -3,7 +3,7 @@
 
 - 🧑‍🎓 Studing **Computer Science and Engineering** at **Vidya Jyothi Institute of Technology**
 - 🔭 I’m currently working on a Project named **AnomalyShield**
-- 👨‍💻 All of my projects details are available at **https://maniyar-safwan.tiiny.site/**
+- 👨‍💻 All of my projects details are available at 
 - 📫 Reach me out through **mdsafwanmaniyar@gmail.com**
 
 # 💼 Intern, Web Developer
