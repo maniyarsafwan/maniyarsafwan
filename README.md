@@ -10,9 +10,13 @@
 
 ### About
 
-Associate Data Engineer at HCLTech, working on the USAA client engagement. Focused on backend query logic, automated pipeline monitoring, and ETL development across Oracle PL/SQL, Snowflake, DBT, and IBM DataStage. SnowPro Core certified. Previously contributed to an ISRO-affiliated project enhancing lunar crater imagery using AI/ML methods.
+I am currently working as an Associate Data Engineer at HCLTech, where I contribute to data-focused solutions in an enterprise environment - designing and building automation systems that power a live USAA client engagement spanning Oracle PL/SQL, Snowflake, DBT, and IBM DataStage. I enjoy working with structured data, understanding business requirements, and building reliable, scalable systems as part of a collaborative team.
+ 
+My core focus is engineering tooling from the ground up - Python/Flask dashboards, CTM job-surveillance systems, and scheduled reporting frameworks - that replace manual operational effort with self-service visibility across production pipelines. I have also spearheaded platform modernization initiatives end-to-end, including a full Python migration and CI/CD standardization across a multi-repository DataStage environment, and engineered REST API tooling to administer and audit Oracle Integration Cloud (OIC) assets at scale.
 
-B.Tech in Computer Science, Vidya Jyothi Institute of Technology (CGPA: 8.52).
+Alongside this, I also work on ETL/ELT pipeline reliability by resolving production data anomalies as needed, including isolating malformed-record failures and redesigning ORDER BY/ROWNUM logic behind recurring data-integrity defects.
+
+I am a Computer Science graduate with hands-on experience in software and web development. During my academics, I worked on projects including a lunar crater image enhancement initiative for ISRO using U-Net architecture on Chandrayaan-2 OHRC data, a Penetration Testing as a Service (PTaaS) platform, and the design of a Snowflake-based data warehouse employing Medallion architecture for CDR analytics.
 
 ---
 
