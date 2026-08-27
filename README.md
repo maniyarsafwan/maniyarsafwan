@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%"/>
+<img src="assets/banner2.svg" width="100%"/>
 
 <br/>
 
-<a href="PASTE_YOUR_LINKEDIN_URL_HERE" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/maniyar-safwan-62760723a/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0B4F6C?style=for-the-badge&logo=linkedin&logoColor=F7F5F0" />
 </a>
-<a href="mailto:PASTE_YOUR_EMAIL_HERE" target="_blank" rel="noopener noreferrer">
+<a href="mailto:mdsafwanmaniyar@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-E3A857?style=for-the-badge&logo=gmail&logoColor=081C26" />
 </a>
 <a href="https://github.com/maniyarsafwan" target="_blank" rel="noopener noreferrer">
@@ -41,7 +41,7 @@
 
 I'm currently working as an **Associate Data Engineer at HCLTech**, contributing to a live **USAA client engagement** spanning Oracle PL/SQL, Snowflake, dbt, and IBM DataStage. I take manual, "someone checks this every morning" processes and turn them into automated, self-service systems.
 
-My core focus is **engineering tooling from the ground up** - Python/Flask dashboards, Control-M job-surveillance systems, and scheduled reporting frameworks - that replace manual operational effort with real-time visibility across production pipelines. I've also led platform modernization end-to-end, including a full **Python 2 -> 3 migration** and CI/CD standardization across a multi-repository DataStage environment, and built REST API tooling to administer and audit **Oracle Integration Cloud (OIC)** assets at scale.
+My core focus is **engineering tooling from the ground up** - Python/Flask dashboards, Control-M job-surveillance systems, and scheduled reporting frameworks - that replace manual operational effort with real-time visibility across production pipelines. I've also led platform modernization end-to-end, including a full **Python migration** and CI/CD standardization across a multi-repository DataStage environment, and built REST API tooling to administer and audit **Oracle Integration Cloud (OIC)** assets at scale.
 
 On the reliability side, I resolve ETL/ELT pipeline defects as they surface - isolating malformed-record failures with systematic divide-and-conquer debugging, and redesigning `ORDER BY` / `ROWNUM` logic behind recurring data-integrity defects that silently break downstream reporting.
 
@@ -139,7 +139,7 @@ Certifications across cloud, AI, and databases
 |:---|:---|
 | **Sep 2025 - Present** | Joined HCLTech as Associate Data Engineer on the USAA account; embedded in production ETL support and automation. |
 | **2025** | Root-caused a recurring `ORDER BY` / `ROWNUM` defect pattern causing silent data-integrity failures across multiple reporting jobs; redesigned the logic and closed the defect class. |
-| **2025** | Led a full **Python 2 → 3** migration with CI/CD standardization across a multi-repository IBM DataStage environment. |
+| **2025** | Led a full **Python** migration with CI/CD standardization across a multi-repository IBM DataStage environment. |
 | **2025** | Built REST API tooling to administer and audit **Oracle Integration Cloud (OIC)** assets at scale. |
 | **2025** | Designed and shipped Control-M job-surveillance and scheduled-reporting automation, replacing manual daily checks. |
 | **2021 - 2025** | B.E. Computer Science - academic work spanning ISRO lunar-imagery enhancement, Snowflake medallion-architecture data warehousing, and security tooling. |
@@ -265,4 +265,4 @@ Certifications across cloud, AI, and databases
 
 </div>
 
-<img src="assets/footer.svg" width="100%"/>
+<img src="assets/footer2.svg" width="100%"/>
