@@ -7,12 +7,15 @@
 <a href="https://www.linkedin.com/in/maniyar-safwan-62760723a/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0B4F6C?style=for-the-badge&logo=linkedin&logoColor=F7F5F0" />
 </a>
+
 <a href="mailto:mdsafwanmaniyar@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-E3A857?style=for-the-badge&logo=gmail&logoColor=081C26" />
 </a>
+
 <a href="https://github.com/maniyarsafwan" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-081C26?style=for-the-badge&logo=github&logoColor=F7F5F0" />
 </a>
+
 <a href="PASTE_YOUR_RESUME_URL_HERE" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Resume-0F6E5C?style=for-the-badge&logo=readdotcv&logoColor=F7F5F0" />
 </a>
@@ -61,30 +64,39 @@ $ current_focus
 
 <table width="100%">
 <tr>
+
 <td width="25%" valign="top">
 
 **Role**
+
 Associate Data Engineer
 
 </td>
+
 <td width="25%" valign="top">
 
 **Company**
+
 HCLTech
 
 </td>
+
 <td width="25%" valign="top">
 
 **Client Engagement**
+
 USAA
 
 </td>
+
 <td width="25%" valign="top">
 
 **Since**
+
 September 2025
 
 </td>
+
 </tr>
 </table>
 
@@ -98,36 +110,47 @@ September 2025
 
 <table width="100%">
 <tr>
+
 <td align="center" width="20%">
 
 ### 6+
+
 Production pipelines automated end-to-end
 
 </td>
+
 <td align="center" width="20%">
 
 ### 2 → 3
+
 Python platform migration led across multiple repos
 
 </td>
+
 <td align="center" width="20%">
 
 ### 100%
+
 Manual DataStage checks replaced by automation
 
 </td>
+
 <td align="center" width="20%">
 
 ### 1
+
 Recurring `ORDER BY`/`ROWNUM` defect class root-caused &amp; closed
 
 </td>
+
 <td align="center" width="20%">
 
 ### 5+
+
 Certifications across cloud, AI, and databases
 
 </td>
+
 </tr>
 </table>
 
@@ -225,7 +248,7 @@ Certifications across cloud, AI, and databases
 ![VS Code](https://img.shields.io/badge/VS%20Code-0B4F6C?style=for-the-badge&logo=visualstudiocode&logoColor=F7F5F0)
 ![Postman](https://img.shields.io/badge/Postman-E3A857?style=for-the-badge&logo=postman&logoColor=081C26)
 ![Jira](https://img.shields.io/badge/Jira-0F6E5C?style=for-the-badge&logo=jira&logoColor=F7F5F0)
-![Linux](https://img.shields.io/badge/Linux-081C26?style=for-the-badge&logo=linux&logoColor=F7F5F0)
+![Linux](https://img.shields.io/badge/Linux-081C26?style=for-the-badge&logo=linux&logoColor=E3A857)
 
 </details>
 
