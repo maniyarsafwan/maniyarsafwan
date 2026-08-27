@@ -1,15 +1,15 @@
 <svg width="1200" height="110" viewBox="0 0 1200 110" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF6E42"/>
-      <stop offset="50%" stop-color="#004E72"/>
-      <stop offset="100%" stop-color="#092634"/>
+      <stop offset="0%" stop-color="#E3A857"/>
+      <stop offset="50%" stop-color="#0B4F6C"/>
+      <stop offset="100%" stop-color="#081C26"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="110" fill="url(#fbg)"/>
-  <rect x="0" y="0" width="1200" height="4" fill="#F9F9F9" opacity="0.25"/>
+  <rect x="0" y="0" width="1200" height="4" fill="#F7F5F0" opacity="0.25"/>
   <text x="600" y="63" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
-        font-size="16" fill="#F9F9F9" opacity="0.9">
+        font-size="16" fill="#F7F5F0" opacity="0.9">
     Thanks for stopping by &#8226; Let's build something reliable together
   </text>
 </svg>
