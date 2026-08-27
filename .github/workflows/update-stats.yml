@@ -1,0 +1,46 @@
+name: Update GitHub Stats
+
+# Regenerates assets/stats.svg and assets/langs.svg using scripts/generate_stats.py
+# and commits them back into the repo, so the README always shows fresh, self-hosted
+# stats images instead of relying on third-party rendering services.
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # once a day at 03:00 UTC
+  workflow_dispatch: {}     # allows manual "Run workflow" trigger from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_stats.py"
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate stats SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: maniyarsafwan
+        run: python scripts/generate_stats.py
+
+      - name: Commit updated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/langs.svg
+          git diff --cached --quiet || git commit -m "chore: refresh GitHub stats [automated]"
+          git push
