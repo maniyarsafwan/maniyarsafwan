@@ -1,0 +1,39 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#092634"/>
+      <stop offset="55%" stop-color="#004E72"/>
+      <stop offset="100%" stop-color="#FF6E42"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6E42"/>
+      <stop offset="100%" stop-color="#F9F9F9"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#F9F9F9" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <rect width="1200" height="260" fill="url(#grid)"/>
+
+  <rect x="0" y="0" width="1200" height="6" fill="url(#stroke)"/>
+  <rect x="0" y="254" width="1200" height="6" fill="url(#stroke)"/>
+
+  <circle cx="1080" cy="60" r="90" fill="#FF6E42" opacity="0.10"/>
+  <circle cx="1140" cy="200" r="60" fill="#F9F9F9" opacity="0.06"/>
+
+  <text x="70" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#F9F9F9">
+    Maniyar Safwan
+  </text>
+
+  <text x="70" y="160" font-family="Consolas, 'Courier New', monospace" font-size="21" fill="#FF6E42">
+    Data Engineer @ HCLTech &#183; ETL Reliability &amp; Automation
+  </text>
+
+  <text x="70" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#F9F9F9" opacity="0.75">
+    Oracle PL/SQL &#8226; Snowflake &#8226; dbt &#8226; IBM DataStage &#8226; Control-M &#8226; Python
+  </text>
+
+  <rect x="70" y="212" width="46" height="4" fill="#FF6E42"/>
+</svg>
