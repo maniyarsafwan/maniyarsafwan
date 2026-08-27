@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/GitHub-081C26?style=for-the-badge&logo=github&logoColor=F7F5F0" />
 </a>
 
-<a href="PASTE_YOUR_RESUME_URL_HERE" target="_blank" rel="noopener noreferrer">
+<a href="https://drive.google.com/file/d/1RcQX0unknDt7rxl_c-pNuaXXX3jc7bGG/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Resume-0F6E5C?style=for-the-badge&logo=readdotcv&logoColor=F7F5F0" />
 </a>
 
@@ -270,7 +270,7 @@ Certifications across cloud, AI, and databases
 
 <div align="center">
 
-<a href="PASTE_YOUR_RESUME_URL_HERE" target="_blank" rel="noopener noreferrer">
+<a href="https://drive.google.com/file/d/1RcQX0unknDt7rxl_c-pNuaXXX3jc7bGG/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/View%20Full%20Resume-081C26?style=for-the-badge&logo=readdotcv&logoColor=E3A857" />
 </a>
 
